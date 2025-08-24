@@ -71,9 +71,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
   <img src="https://img.shields.io/badge/RLCraft_Modpack-555555?style=for-the-badge&logo=curseforge&logoColor=FF7139" />
-  <img src="https://img.shields.io/badge/League_of_Legends-1C1C1C?style=for-the-badge&logo=riot-games&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS:GO-FF8C00?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arena_of_Valor-0E7C0E?style=for-the-badge&logo=tencent&logoColor=white" />
+  <img src="https://img.shields.io/badge/Honkai_Star_Rail-14274E?style=for-the-badge&logo=miHoYo&logoColor=white" />
 </p>
+
 
 ---
 
