@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+S+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!;Building+the+future+with+data!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Science+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!;Building+the+future+with+data!" alt="Typing SVG" />
 </div>
 
 <div align="center">
