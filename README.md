@@ -33,7 +33,7 @@
 - Tools: Git, VSCode
 
 ## 📈 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ten_github_cua_ban&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandao04&show_icons=true&theme=radical)
 
 ## 🌐 Liên hệ
 - Email: example@gmail.com
