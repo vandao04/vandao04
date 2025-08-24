@@ -36,5 +36,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandao04&show_icons=true&theme=radical)
 
 ## 🌐 Liên hệ
-- Email: daovvbka@gmail.com.com
+- Email: daovvbka@gmail.com
 - Portfolio: [My Website](https://your-portfolio.com)
