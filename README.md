@@ -1,40 +1,67 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,50:FFC107,100:FF5722&height=270&section=header&text=Vương%20Văn%20Đạo&fontAlignY=40&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Web%20Developer&descSize=30&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,50:FFC107,100:FF5722&height=250&section=header&text=Vương%20Văn%20Đạo&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Web%20Developer%20%7C%20Gamer&descSize=25&descAlignY=65&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=FastAPI+Enthusiast;Loves+RLCraft+Modpack;Exploring+Data+%26+Code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=00FFDD&center=true&vCenter=true&width=900&lines=Hello+World!+I'm+Dao+👋;FastAPI+%7C+Python+%7C+JavaScript;Loves+RLCraft+Minecraft;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<div align="center">
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=DaoTran&style=for-the-badge&color=orange)
-  ![GitHub followers](https://img.shields.io/github/followers/DaoTran?style=for-the-badge&color=teal&label=Followers)
-  ![GitHub User's stars](https://img.shields.io/github/stars/DaoTran?style=for-the-badge&color=red&label=Stars)
-
-</div>
-
 
 ---
+
 # 👋 Xin chào, mình là Đạo!
 
 🎓 Sinh viên yêu thích **HTML, CSS, JavaScript, FastAPI**  
 🎮 Thích chơi Minecraft (đặc biệt là modpack **RLCraft**)  
 📚 Đang học Data Science & Web Development  
 
+---
+
 ## 🔧 Kỹ năng
-- Frontend: HTML, CSS, JavaScript (ES6), React
-- Backend: FastAPI, Python
-- Database: MySQL, SQLite
-- Tools: Git, VSCode
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode" />
+</p>
+
+---
 
 ## 📈 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vandao04&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vandao04&show_icons=true&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=vandao04&theme=radical&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandao04&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🎮 Trò chơi yêu thích
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
+  <img src="https://img.shields.io/badge/RLCraft_Modpack-555555?style=for-the-badge&logo=curseforge&logoColor=FF7139" />
+  <img src="https://img.shields.io/badge/League_of_Legends-1C1C1C?style=for-the-badge&logo=riot-games&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS:GO-FF8C00?style=for-the-badge&logo=counter-strike&logoColor=white" />
+</p>
+
+---
 
 ## 🌐 Liên hệ
-- Email: daovvbka@gmail.com
-- Portfolio: [My Website](https://your-portfolio.com)
+
+- 📧 Email: **daovvbka@gmail.com**  
+- 🌍 Portfolio: [My Website](https://your-portfolio.com)  
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
