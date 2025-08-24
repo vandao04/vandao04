@@ -1,10 +1,9 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=:E1EAFC,20:A9DEF9,40:77D4FC,60:62B6CB,80:4A90A4,100:357A7F&height=270&section=header&text=Vương%20Văn%20Đạo&fontAlignY=40&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Poet&descSize=30&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8BC34A,50:FFC107,100:FF5722&height=270&section=header&text=Vương%20Văn%20Đạo&fontAlignY=40&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Data%20Science%20%7C%20Web%20Developer&descSize=30&descAlignY=60&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Data+Science+%7C+Machine+Learning+Enthusiast;Always+learning+new+technologies;Welcome+to+my+digital+space!;Building+the+future+with+data!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFD700&center=true&vCenter=true&width=940&lines=FastAPI+Enthusiast;Loves+RLCraft+Modpack;Exploring+Data+%26+Code;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,11 +12,12 @@
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=NguyenVanTien204&style=for-the-badge&color=brightgreen)
-  ![GitHub followers](https://img.shields.io/github/followers/NguyenVanTien204?style=for-the-badge&color=blue&label=Followers)
-  ![GitHub User's stars](https://img.shields.io/github/stars/NguyenVanTien204?style=for-the-badge&color=yellow&label=Stars)
+  ![Profile Views](https://komarev.com/ghpvc/?username=DaoTran&style=for-the-badge&color=orange)
+  ![GitHub followers](https://img.shields.io/github/followers/DaoTran?style=for-the-badge&color=teal&label=Followers)
+  ![GitHub User's stars](https://img.shields.io/github/stars/DaoTran?style=for-the-badge&color=red&label=Stars)
 
 </div>
+
 
 ---
 # 👋 Xin chào, mình là Đạo!
